@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Knewave&display=swap");
+body {
+  margin: 0;
+  font-family: "Knewave", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f2f4f6;
+}
